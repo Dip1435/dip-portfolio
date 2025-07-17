@@ -6,8 +6,6 @@ A modern and responsive creative portfolio built using [v0.dev](https://v0.dev) 
 
 ## Live Demo
 
-Check out the live demo: [https://v0-creative-portfolio-o7.vercel.app/](https://v0-creative-portfolio-o7.vercel.app/)
-
 ## Features
 
 - Responsive design that works on all devices
